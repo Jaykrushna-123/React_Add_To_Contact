@@ -1,0 +1,50 @@
+[
+    {
+        "id":1 ,
+        "Fullname":"Jaykrushna",
+        "Email":"jaykrushna@gmail.com",
+        "Phone":"9658407309" ,
+        "Company":"Zuru Tech",
+        "Address":"Bhubaneswar"
+    },
+    {
+        "id":2 ,
+        "Fullname":"Ram",
+        "Email":"ram@gmail.com",
+        "Phone":"7632091287" ,
+        "Company":"TCS",
+        "Address":"Indore"
+    },
+    {
+        "id":3 ,
+        "Fullname":"Tushar",
+        "Email":"tushar@gmail.com",
+        "Phone":"7632090089" ,
+        "Company":"Wipro",
+        "Address":"Bengaluru"
+    },
+    {
+        "id":4 ,
+        "Fullname":"Rajeeb",
+        "Email":"rajeeb@gmail.com",
+        "Phone":"7632091100" ,
+        "Company":"Geekyants",
+        "Address":"Hyderabad"
+    },
+    {
+        "id":5 ,
+        "Fullname":"Satya",
+        "Email":"satya@gmail.com",
+        "Phone":"7632097650" ,
+        "Company":"TCS",
+        "Address":"Ahemdabad"
+    },
+    {
+        "id":6 ,
+        "Fullname":"Prateek",
+        "Email":"prateek@gmail.com",
+        "Phone":"7632004297" ,
+        "Company":"Accenture",
+        "Address":"Pune"
+    }
+]
